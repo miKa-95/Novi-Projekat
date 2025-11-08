@@ -1,3 +1,3 @@
 function display(){
-  var data = newFormData();
+  var data = newFormData(arg1);
 }
